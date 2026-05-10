@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying BSc. CSIT<br>🤝 I’m looking for help with ai/ml career plan<br>🌱 I’m currently learning machine learning<br>💬 Ask me about<br>
+🔭 I’m currently studying BSc. CSIT<br>🤝 I’m looking for help with ai/ml career plan<br>🌱 I’m currently learning ML Fundamentals<br>
 
 
 ## 🌐 Socials:
